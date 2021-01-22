@@ -85,7 +85,7 @@ void cuentaPNC(int iN){
                 iCP = iCP + 1;
             else
                 if(iNum<0)
-                    iCN = iCN + 1;//es positivo
+                    iCN = iCN + 1;//es negativo
                 else
                     iCC = iCC + 1;//es cero
         }

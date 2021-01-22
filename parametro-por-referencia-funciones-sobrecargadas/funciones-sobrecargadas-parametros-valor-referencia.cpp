@@ -69,7 +69,7 @@ int main(){
     cin>>iP;
     
     //llamando la funcion por valor o por parametro (depende a cuál se llama a continuación)
-    iA = patito(iP);
+    iA = patito2(iP);
     
     //desplegar resultados de la función por valor o por parametro (depende a cuál se llamo antes)
     cout<<"iA = "<<iA<<" iP = "<<iP<<endl;
